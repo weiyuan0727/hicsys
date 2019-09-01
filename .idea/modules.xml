@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hicdemon1/hicdemon1.iml" filepath="$PROJECT_DIR$/hicdemon1/hicdemon1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hicdemon2/hicdemon2.iml" filepath="$PROJECT_DIR$/hicdemon2/hicdemon2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hicusermanager/hicusermanager.iml" filepath="$PROJECT_DIR$/hicusermanager/hicusermanager.iml" />
+    </modules>
+  </component>
+</project>
